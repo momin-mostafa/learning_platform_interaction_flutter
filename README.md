@@ -6,7 +6,7 @@ A Flutter project designed to explore Android platform-specific functionalities 
 ## Features
 
 - Bidirectional communication between Flutter and Android.
-- Example functionalities like retrieving device information, accessing native Android APIs, and more.
+- Example functionalities like retrieving data from Android.
 - Minimalistic and beginner-friendly codebase to understand the fundamentals of **MethodChannel**.
 
 ---
