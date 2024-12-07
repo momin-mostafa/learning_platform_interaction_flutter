@@ -32,7 +32,7 @@ A Flutter project designed to explore Android platform-specific functionalities 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/learning_platform_interaction.git
+   git clone https://github.com/momin-mostafa/learning_platform_interaction.git
    cd learning_platform_interaction
    ```
 
