@@ -57,7 +57,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: getStringAndShow,
-        tooltip: 'Increment',
+        tooltip: 'call native code',
         child: const Icon(Icons.add),
       ),
     );
